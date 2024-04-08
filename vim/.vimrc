@@ -1,3 +1,5 @@
+" Vim Configuration
+
 syntax on
 colorscheme default
 set number
